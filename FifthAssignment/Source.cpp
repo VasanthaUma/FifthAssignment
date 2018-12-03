@@ -1,6 +1,9 @@
 /* Developed by Vasantha Buddiga 
 -  using Classes in Project */
-
+/* Display different Kinds of Cakes like Cup cakes,
+sheet cakes, wedding cakes etc. with differnt flavours 
+and toppings
+*/
 #include <iostream>
 #include <string>
 using namespace std;
